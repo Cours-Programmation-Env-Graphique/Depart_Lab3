@@ -1,0 +1,50 @@
+Crédits des assets importés
+===========================
+
+Projet à usage interne (enseignement, Cégep de Trois-Rivières), jamais diffusé ni commercialisé.
+
+KenneyPirateKit
+  Pack : Pirate Kit (modèles FBX et atlas de couleurs)
+  Auteur : Kenney (www.kenney.nl)
+  Licence : CC0 1.0 (domaine public)
+  Lien : https://kenney.nl/assets/pirate-kit
+
+KenneyHolidayKit
+  Pack : Holiday Kit (modèles FBX et atlas de couleurs)
+  Auteur : Kenney (www.kenney.nl)
+  Licence : CC0 1.0 (domaine public)
+  Lien : https://kenney.nl/assets/holiday-kit
+
+KenneyMiniCharacters
+  Pack : Mini Characters (modèles FBX et atlas de couleurs)
+  Auteur : Kenney (www.kenney.nl)
+  Licence : CC0 1.0 (domaine public)
+  Lien : https://kenney.nl/assets/mini-characters
+
+HockeyProps (modèles téléchargés sur Poly Pizza)
+  IceHockeyStick : « Ice Hockey Stick », par jeremy, CC-BY 3.0
+    https://poly.pizza/m/fIIrv_CwLOV
+  HockeyStick : « Hockey Stick », par CreativeTrio, CC0 1.0
+    https://poly.pizza/m/NQnXoyeezy
+  IceSkate : « Ice skate », par jeremy, CC-BY 3.0
+    https://poly.pizza/m/8M1k8XeHwhM
+  Trophy : « Trophy », par CreativeTrio, CC0 1.0
+    https://poly.pizza/m/fLy8KmmD1t
+  Bench : « Bench », par Quaternius, CC0 1.0
+    https://poly.pizza/m/jLxjFxFRpw
+  AdBoard : « Ad Board », par Uykucukoala, CC0 1.0
+    https://poly.pizza/m/8G0qJ84VDS
+  SoccerGoal : « Soccer goal », par Poly by Google, CC-BY 3.0
+    https://poly.pizza/m/7t4hmicGHV4
+
+WinterProps (modèle téléchargé sur Poly Pizza)
+  Icicle : « Icicle », par Poly by Google, CC-BY 3.0
+    https://poly.pizza/m/dEz_atLOlje
+
+PirateProps (modèle téléchargé sur Poly Pizza)
+  PirateHat : « Pirate hat », par Poly by Google, CC-BY 3.0
+    https://poly.pizza/m/9QEds6cYAy6
+
+Créations propres au projet (dans _MyAssets, et non importées)
+  Rondelle (prefab Puck), filet du but et publicités des panneaux : aucune rondelle ni aucun
+  filet de hockey gratuit n'a été trouvé ; ces éléments sont construits dans le projet.
